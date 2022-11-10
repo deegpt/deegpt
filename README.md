@@ -2,8 +2,8 @@
  I work In Amazon Development Center as a Customer Service Associate.
  
  I'm an aspiring Data Analyst. I love to play with Data, solving SQL queries give me a kick and put another level of energy to work harder and stick with it. 
- 
- Currently, I’m a dedicated learner, finding ways to land myself a Data Analyst Job.
+
+ 🤔 A dedicated learner, finding ways to land myself a Data Analyst Job.
 
 ### Things I'm good at:
 
@@ -14,10 +14,10 @@ I think I’m pretty good at spotting random patterns within things and making u
  Exploratory Data Analysis, Data Visualization and SQL, Excel, Tableau.
 
 #### Project Links: 
-Data Science Portfolio Projects, Data Analysis Uisng Python, Deep Learning Projects, Machine Learning Projects
+Data Science Portfolio Projects, Data Analysis Uisng Python.
 
 #### Languages: 
-Python, SQL, HTML.
+Python, SQL, Introductory HTML, Introductory Java.
 
 #### Libraries & Tools: 
 Pandas, NumPy, Matplotlib, Seaborn.
