@@ -1,26 +1,33 @@
 ### Hi there 👋 I'm Deepak
- I work In Amazon Development Center as a Customer Service Associate.
+I work In Amazon Development Center as a Customer Service Associate.
  
- I'm an aspiring Data Analyst. I love to play with Data, solving SQL queries give me a kick and put another level of energy to work harder and stick with it. 
+An aspiring Data Analyst having the ability to analyze and interpret data using statistical techniques and tools. Love to work with data to identify trends and patterns, developing and implementing statistical models, and using programming language like Python to manipulate and analyze data.
+ 
+Understand how businesses operate with my experience till date and able to use data to support decision-making and drive business growth.
 
- 🤔 A dedicated learner, finding ways to land myself a Data Analyst Job.
+A dedicated learner, finding ways to land myself a Data Analyst Job.
 
 ### Things I'm good at:
 
 #### Abstracting ideas: 
-I think I’m pretty good at spotting random patterns within things and making up abstract conclusions from what I see. 
+Good at spotting random patterns within things and making up abstract conclusions from what I see. 
+
+Able to clearly and effectively communicate my findings and insights to both technical and non-technical audiences.
+
+Able to identify problems and develop solutions based on data-driven insights.
+
+Love to collaborate with others and work effectively in a team environment is important.
+
+Proficient in a range of tools and technologies, including programming languages, database management systems, and visualization tools.
  
 #### Domain: 
- Exploratory Data Analysis, Data Visualization and SQL, Excel, Tableau.
-
-#### Project Links: 
-Data Science Portfolio Projects, Data Analysis Uisng Python.
+ Exploratory Data Analysis, Data Exploration, Data Cleaning, Data Visualization and SQL, Excel, Tableau.
 
 #### Languages: 
 Python, SQL, Introductory HTML, Introductory Java.
 
 #### Libraries & Tools: 
-Pandas, NumPy, Matplotlib, Seaborn.
+Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook, VSCode, Microsoft SQL server, MySQL, POstgreSQL
 
 #### Vsiualization Tools: 
 Power BI, Tableau
@@ -29,10 +36,10 @@ Power BI, Tableau
 Exploratory Data Analysis, Handling duplicate and null values.
 
 #### Projects:
-One can give a checkout for my projects done here: [Portfolio Projects](https://github.com/deegpt/PortfolioProjects)
+Portfolio projects are all accumulated and accessed here: [Portfolio Projects](https://github.com/deegpt/PortfolioProjects)
 
 #### Training & Recent Certificaitons:
-All my certification can be accessed [here.](https://github.com/deegpt/Certificates)
+Certifications proving the skills are certified can be accessed [here.](https://github.com/deegpt/Certificates)
 
 ### How one can reach me - 
  
