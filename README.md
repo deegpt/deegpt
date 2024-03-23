@@ -1,11 +1,22 @@
 ### Hi there 👋 I'm Deepak
-I work In Amazon Development Center as a Customer Service Associate.
- 
-An aspiring Data Analyst having the ability to analyze and interpret data using statistical techniques and tools. Love to work with data to identify trends and patterns, developing and implementing statistical models, and using programming language like Python to manipulate and analyze data.
- 
-Understand how businesses operate with my experience till date and able to use data to support decision-making and drive business growth.
+As a dedicated Customer Service Representative at Amazon, I thrive on delivering exceptional support to customers while consistently exceeding expectations.
 
-A dedicated learner, finding ways to land myself a Data Analyst Job.
+With a solid background in providing top-tier service, I have honed my skills in problem-solving, communication, and relationship-building, ensuring every interaction leaves a positive impact.
+
+My journey at Amazon has provided invaluable insights into customer behavior, preferences, and trends, fueling my passion for data-driven decision-making.
+
+I am adept at leveraging various tools and technologies to analyze customer inquiries, identify patterns, and propose innovative solutions to enhance the overall customer experience.
+
+Driven by a strong analytical mindset and a desire to delve deeper into the world of data, I am eager to transition into a role as a Data Analyst.
+
+I am currently pursuing additional training and certifications in data analysis and visualization to complement my existing skill set.
+
+My goal is to leverage my customer service expertise and analytical prowess to extract meaningful insights from complex datasets, drive strategic decision-making, and contribute to the continued success of the organization.
+
+With a keen eye for detail, a proactive approach to problem-solving, and a commitment to continuous learning, I am well-equipped to thrive in a fast-paced data-driven environment. I am excited about the opportunity to leverage my diverse skill set and passion for data analysis to make a meaningful impact in a dynamic organization like Amazon.
+
+Let's connect to explore how my unique blend of customer service experience and analytical acumen can add value to your team.
+
 
 ### Things I'm good at:
 
