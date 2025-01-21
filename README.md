@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Deepak
-As a dedicated Customer Service Representative at Amazon, I thrive on delivering exceptional support to customers while consistently exceeding expectations.
+As a dedicated Support Spcialist at a leading FinTech company at Revolut growing around the globe, I thrive on delivering exceptional support to customers while consistently exceeding expectations.
 
 With a solid background in providing top-tier service, I have honed my skills in problem-solving, communication, and relationship-building, ensuring every interaction leaves a positive impact.
 
