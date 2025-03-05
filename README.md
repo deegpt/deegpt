@@ -34,8 +34,8 @@ Proficient in a range of tools and technologies, including programming languages
 #### Domain: 
  Exploratory Data Analysis, Data Exploration, Data Cleaning, Data Visualization and SQL, Excel, Tableau.
 
-#### Languages: 
-Python, SQL, Introductory HTML, Introductory Java.
+#### Skills:
+Python, SQL, Machine Learning.
 
 #### Libraries & Tools: 
 Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook, VSCode, Microsoft SQL server, MySQL, POstgreSQL
