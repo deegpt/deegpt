@@ -21,18 +21,18 @@ Let's connect to explore how my unique blend of customer service experience and 
 ### Things I'm good at:
 
 #### Abstracting ideas: 
-Good at spotting random patterns within things and making up abstract conclusions from what I see. 
+- Good at spotting random patterns within things and making up abstract conclusions from what I see. 
 
-Able to clearly and effectively communicate my findings and insights to both technical and non-technical audiences.
+- Able to clearly and effectively communicate my findings and insights to both technical and non-technical audiences.
 
-Able to identify problems and develop solutions based on data-driven insights.
+- Able to identify problems and develop solutions based on data-driven insights.
 
-Love to collaborate with others and work effectively in a team environment is important.
+- Love to collaborate with others and work effectively in a team environment is important.
 
-Proficient in a range of tools and technologies, including programming languages, database management systems, and visualization tools.
+- Proficient in a range of tools and technologies, including programming languages, database management systems, and visualization tools.
  
 #### Domain: 
- Exploratory Data Analysis (EDA), ETL, Data Exploration, Data Cleaning, Data Visualization and SQL, Excel, Tableau.
+ - Exploratory Data Analysis (EDA), ETL, Data Exploration, Data Cleaning, Data Visualization and SQL, Excel, Tableau.
 
 #### Skills:
 - Excel, Python, SQL, Machine Learning, Web Scraping
